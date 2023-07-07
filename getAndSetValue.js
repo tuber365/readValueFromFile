@@ -1,9 +1,8 @@
 const fs = require('node:fs/promises')
-
 const util = require('node:util');
-
 var assert = require('assert');
 
+//following are 2 values for your test cases
 let testCase1 = '123';
 let testCase2 = '1234';
 
